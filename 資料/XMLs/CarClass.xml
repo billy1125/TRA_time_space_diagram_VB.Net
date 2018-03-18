@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Stations xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Station>
+		<ID>1101</ID>
+		<DSC>自強號</DSC>
+		<EXTRA1>Tze-Chiang Limited Express</EXTRA1>
+	</Station>
+	<Station>
+		<ID>1102</ID>
+		<DSC>太魯閣號</DSC>
+		<EXTRA1>Tze-Chiang Limited Express(Tarko)</EXTRA1>
+	</Station>
+	<Station>
+		<ID>1107</ID>
+		<DSC>普悠瑪號</DSC>
+		<EXTRA1>Tze-Chiang Limited Express(Puyuma)</EXTRA1>
+	</Station>
+	<Station>
+		<ID>1110</ID>
+		<DSC>莒光號</DSC>
+		<EXTRA1>Chu-Kuang Express</EXTRA1>
+	</Station>
+	<Station>
+		<ID>1120</ID>
+		<DSC>復興快</DSC>
+		<EXTRA1>Fu-Hsing Semi Express</EXTRA1>
+	</Station>
+	<Station>
+		<ID>1131</ID>
+		<DSC>區間車</DSC>
+		<EXTRA1>Local Train</EXTRA1>
+	</Station>
+	<Station>
+		<ID>1132</ID>
+		<DSC>區間快</DSC>
+		<EXTRA1>Fast Local Train</EXTRA1>
+	</Station>
+	<Station>
+		<ID>1140</ID>
+		<DSC>普快車</DSC>
+		<EXTRA1>Ordinary train</EXTRA1>
+	</Station>
+</Stations>
